@@ -98,6 +98,7 @@ ExtraPackages svn smartdns https://github.com/project-openwrt/openwrt/trunk/pack
 ExtraPackages git OpenClash https://github.com/vernesong master
 ExtraPackages git luci-app-serverchan https://github.com/tty228 master
 ExtraPackages svn luci-app-socat https://github.com/xiaorouji/openwrt-package/trunk/lienol
+ExtraPackages git luci-app-kodexplorer https://github.com/kukuyu123 master
 # ExtraPackages git openwrt-upx https://github.com/Hyy2001X master
 # ExtraPackages svn luci-app-mentohust https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw
 # ExtraPackages svn mentohust https://github.com/project-openwrt/openwrt/trunk/package/ctcgfw
